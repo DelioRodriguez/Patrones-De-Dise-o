@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinicipioSRP", "PrinicipioSRP\PrinicipioSRP.csproj", "{CA04FF9B-BD18-492A-82D9-43ED36848AFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipioSRP", "PrinicipioSRP\PrincipioSRP.csproj", "{CA04FF9B-BD18-492A-82D9-43ED36848AFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
